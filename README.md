@@ -13,7 +13,7 @@ This project implements an enterprise-grade relational database architecture for
 | :--- | :--- | :--- |
 | **Iqbal Hassan Tariq** | 4361/BSSE/F24 | Software Engineering |
 | **M. Hasnain Baig** | 4372/BSSE/F24 | Software Engineering |
-| **Habib Ullah Kashmiri** | 4380/BSSE/F24 | Software Engineering |
+| **Habib Ullah ** | 4380/BSSE/F24 | Software Engineering |
 | **Nasrullah Malik** | 4583/BSSE/F24 | Software Engineering |
 
 * **Academic Supervisor:** Prof. Shakeel Ahmad  
